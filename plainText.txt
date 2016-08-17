@@ -1,0 +1,13 @@
+in publishing and graphic design, lorem ipsum (derived from latin dolorem ipsum, translated as "pain itself") is 
+a filler text commonly used to demonstrate the graphic elements of a document or visual presentation. 
+replacing meaningful content with placeholder text allows viewers to focus on graphic aspects such as font, 
+typography, and page layout without being distracted by the content. it also reduces the need for the designer 
+to come up with meaningful text, as they can instead use quickly-generated lorem ipsum.
+
+the lorem ipsum text is typically a scrambled section of de finibus bonorum et malorum, a 1st-century bc latin text 
+by cicero, with words altered, added, and removed to make it nonsensical, improper latin.
+
+a variation of the ordinary lorem ipsum text has been used in typesetting since the 1960s or earlier, when it was 
+popularized by advertisements for letraset transfer sheets. it was introduced to the information age in the mid-1980s 
+by aldus corporation, which employed it in graphics and word-processing templates for its desktop publishing program 
+pagemaker.
